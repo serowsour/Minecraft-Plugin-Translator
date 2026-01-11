@@ -47,3 +47,4 @@ Optional arguments:
    Operation completed.
 
  ------------------------------------------------------------
+![Minecraft Plugin Translator Banner](images/banner.png)
