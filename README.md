@@ -1,3 +1,5 @@
+![Minecraft Plugin Translator Banner](images/banner.png)
+
 ## ⚠️ Disclaimer
 
 This project is provided for educational and practical purposes only.  
