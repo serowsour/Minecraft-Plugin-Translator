@@ -14,15 +14,15 @@ Basic usage:
 
 Optional arguments:
  
-   -o FILE       Specify a custom output file
+     -o FILE       Specify a custom output file
    
-   -v            Enable verbose logging
+     -v            Enable verbose logging
    
-   -nobackup     Disable automatic backup creation
+     -nobackup     Disable automatic backup creation
 
  Example:
        
-        python translate_serowsour.py -i en_US.yml -l it
+    python mc_plugin_translator.py -i en_US.yml -l it
 
  Output:
    Generates a translated YAML file named:
