@@ -10,7 +10,7 @@ Requirements:
 
 Basic usage:
  
-  python translate_serowsour.py -i input.yml -l it
+     python translate_serowsour.py -i input.yml -l it
 
  Optional arguments:
  
@@ -26,11 +26,11 @@ Basic usage:
  Output:
    Generates a translated YAML file named:
    
-       en_US_it.yml
+     en_US_it.yml
 
  Processing pipeline:
 
-    ●PHASE A — Pre-processing (validation and repair)
+   ●PHASE A — Pre-processing (validation and repair)
    
    ●PHASE B — Translation
    
